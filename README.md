@@ -1,6 +1,6 @@
 # PHF
 
-Joc clasic Piatra - Hartie - Foarfeca realizat in Python, multiplayer, in care cu ajutorul sockets si networking se pot conecta mai multi clienti pe un server local. Grafica utilizata in acest proiect este realizata cu ajutorul PyGame. Scorul dintre jucatori este salvat urmand ca acesta sa se reseteze la fiecare repornire a programului ( Se pot porni mai multe instante ale jocului fiecare dintre ele avand un scor independent)
+Joc clasic Piatra - Hartie - Foarfeca realizat in Python, multiplayer, in care cu ajutorul sockets si networking se pot conecta mai multi clienti pe un server local. Grafica utilizata in acest proiect este realizata cu ajutorul PyGame. Scorul dintre jucatori este salvat, urmand ca acesta sa se reseteze la fiecare repornire a programului (Se pot porni mai multe instante ale jocului fiecare dintre ele avand un scor independent)
 
 Instructiuni rulare:
 
