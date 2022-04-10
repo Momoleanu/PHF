@@ -1,6 +1,6 @@
 # PHF
 
-Joc Piatra - Hartie - Foarfeca multiplayer in care se pot conecta mai multi clienti pe un server utilizand socketuri si networking. Grafica utilizata in acest proiect este realizata cu ajutorul PyGame
+Joc Piatra - Hartie - Foarfeca multiplayer in care, cu ajutorul sockets si networking, se pot conecta mai multi clienti pe un server. Grafica utilizata in acest proiect este realizata cu ajutorul PyGame
 
 Instructiuni rulare:
 
