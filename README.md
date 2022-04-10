@@ -9,3 +9,4 @@ In locul destinat adresei IP (din network.py si server.py ) se va deschide cmd -
 
 Se ruleaza mai intai server.py ( se asteapta in consola aparitia mesajului Server deschis)
 Dupa care se deschid 2 instante client.py si se incepe jocul. 
+![image](https://user-images.githubusercontent.com/80321803/162620379-b05f8f85-b393-4f54-8cb0-10e0ee81240d.png)
